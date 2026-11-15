@@ -1,0 +1,9 @@
+.hbuilderx/
+.DS_Store
+node_modules/
+unpackage/
+dist/
+harmony-configs/
+*.p12
+*.cer
+*.p7b

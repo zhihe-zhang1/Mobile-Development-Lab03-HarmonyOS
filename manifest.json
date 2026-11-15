@@ -1,0 +1,17 @@
+{
+  "name": "学生名册",
+  "appid": "",
+  "description": "使用 uni-app Vue 3 实现的 HarmonyOS 学生名册实验",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "vueVersion": "3",
+  "uniStatistics": {
+    "enable": false
+  },
+  "app-harmony": {
+    "distribute": {
+      "bundleName": "com.example.studentdirectory"
+    }
+  }
+}

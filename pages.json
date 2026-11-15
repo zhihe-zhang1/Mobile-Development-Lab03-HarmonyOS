@@ -1,0 +1,21 @@
+{
+  "pages": [
+    {
+      "path": "pages/students/students",
+      "style": {
+        "navigationBarTitleText": "校园通讯录"
+      }
+    },
+    {
+      "path": "pages/student-detail/student-detail",
+      "style": {
+        "navigationBarTitleText": "学生详情"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#f1f5fb"
+  }
+}
